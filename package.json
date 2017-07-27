@@ -1,0 +1,16 @@
+{
+	"name":"aintegra",
+	"version":"1.0.0",
+	"description":"homekit integration",
+	"main":"index.js",
+	"scripts":{
+		"test":"echo \"Error: no test specified\" && exit 1"
+				},
+	"author":"",
+ 	"license":"ISC",
+ 	"readme":"",
+ 	"_id":"aintegra@1.0.0",
+ 	"_shasum":"7a0b0a642767380dec40e5dfe6e0a7b11f26bb57",
+ 	"_from":"aintegra@latest",
+ 	"_resolved":"file:node_modules"
+}
